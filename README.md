@@ -18,7 +18,7 @@ I am a developer.
 <img align="left" alt="Arch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
+<br>
 
 ### Stats
-
 ![C1uckie's GitHub stats](https://github-readme-stats.vercel.app/api?username=C1uckie&show_icons=true&theme=gruvbox)
